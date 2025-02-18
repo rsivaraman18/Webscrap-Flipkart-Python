@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-
+ 
 try:
     url  = "https://www.flipkart.com/search?q=" 
     txt = input('Enter the item name: ')
